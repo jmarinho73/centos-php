@@ -3,7 +3,6 @@
 Bastaría con clonar o repositorio:
 ```
 $ git clone https://github.com/jmarinho73/centos-php.git
-
 ```
 Ir ao directorio principal:
 ```
